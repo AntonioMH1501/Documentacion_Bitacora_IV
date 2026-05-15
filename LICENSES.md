@@ -3,15 +3,15 @@ Antonio Muñoz Herrera
 
 ## Postgre SQL
 
-Postgre SQL es una base de datos de código abierto que se caracteriza por su fiabilidad, flexibilidad y apoyo a los estándares técnicos abiertos. Admite tipos de datos relacionales y no relacionales. Se trata de una continuación de INGRES, desde 1994 sigue gestionando bases de datos libres y de código abierto. [1]
+Postgre SQL es una base de datos de código abierto que se caracteriza por su fiabilidad, flexibilidad y apoyo a los estándares técnicos abiertos. Admite tipos de datos relacionales y no relacionales. Se trata de una continuación de INGRES, desde 1994 sigue gestionando bases de datos libres y de código abierto. [1].
 
 ## Apache Guacamole
 
-Apache Guacamole es una puerta de enlace de escritorio remoto multiplataforma y de código abierto. Permite a los usuarios controlar escritorios y máquinas virtuales a través del navegador web mediante un sistema de autenticación y autorización. Se distribuye a través de la licencia de Apache. [2]
+Apache Guacamole es una puerta de enlace de escritorio remoto multiplataforma y de código abierto. Permite a los usuarios controlar escritorios y máquinas virtuales a través del navegador web mediante un sistema de autenticación y autorización. Se distribuye a través de la licencia de Apache. [2].
 
 ## OpenSSH
 
-OpenSSH es la herramienta lider de conectividad para el inicio de sesión remoto mediante protocolo SSH. Esta cifra todo el tráfico para eliminar la interceptación de comunicaciones y otros ataques. Este se distribuye a través de la licencia BSD [3]
+OpenSSH es la herramienta lider de conectividad para el inicio de sesión remoto mediante protocolo SSH. Esta cifra todo el tráfico para eliminar la interceptación de comunicaciones y otros ataques. Este se distribuye a través de la licencia BSD [3].
 
 ## BIBLIOGRAFÍA
 
